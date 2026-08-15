@@ -2,7 +2,7 @@
 
 Soy **Nerea**, estudiante de **Ingeniería de Telecomunicaciones** en la Universidad Carlos III de Madrid.
 
-Me interesa todo lo que conecta el hardware con el mundo real: los drones, la visión artificial, el IoT y los sistemas que funcionan de forma autónoma. Ahora mismo estoy centrada en **Drone-SAR**, mi TFG: un dron autónomo de búsqueda y rescate capaz de detectar personas desde el aire.
+Me interesa todo lo que conecta el hardware con el mundo real: los drones, la visión artificial, tecnologías cloud, IoT y los sistemas que funcionan de forma autónoma. Ahora mismo estoy centrada en **Drone-SAR**, mi TFG: un dron autónomo de búsqueda y rescate capaz de detectar personas desde el aire.
 
 ---
 
