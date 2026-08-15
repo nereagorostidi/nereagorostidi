@@ -19,4 +19,4 @@ Me interesa todo lo que conecta el hardware con el mundo real: los drones, la vi
 
 ---
 
-📫 Puedes escribirme en [LinkedIn](https://www.linkedin.com/in/nereagorostidigarcia/) o por [correo](nerea.gorostidi.garcia@gmail.com).
+📫 Puedes escribirme en [LinkedIn](https://www.linkedin.com/in/nereagorostidigarcia/) o por [correo](mailto://nerea.gorostidi.garcia@gmail.com).
