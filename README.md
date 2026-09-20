@@ -4,6 +4,8 @@ Soy **Nerea**, estudiante de **Ingeniería de Telecomunicaciones** en la Univers
 
 Me interesa todo lo que conecta el hardware con el mundo real: los drones, la visión artificial, tecnologías cloud, IoT y los sistemas que funcionan de forma autónoma. Ahora mismo estoy centrada en **Drone-SAR**, mi TFG: un dron autónomo de búsqueda y rescate capaz de detectar personas desde el aire.
 
+Si quieres ver más detalles sobre **Drone-SAR** te animo a que visites [la pagina web del proyecto].  El proyecto concluyo el pasado 7 de Septiembre, fecha en la que se realizo su entrega, y actualmente esta pendiente de su defensa final, este próximo 15 Octubre.   Sin embargo, aunque los cambios están "congelados", por dicha entrega, sigo trabajando en la rama develop para mejorar la deuda técnica identificada en el TFG, con el propósito de, tras su defensa final,  hacer un merge en main y abrir el proyecto a la comunidad, de forma que la misma pueda beneficiarse de nuevas mejoras sobre el mismo. Se puede seguir un progreso de ello en la evolución del [Projecto] (https://github.com/users/nereagorostidi/projects/2)
+
 ---
 
 ### 🛠️ Tecnologías
