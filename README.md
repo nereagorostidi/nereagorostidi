@@ -1,10 +1,12 @@
 ## ¡Hola! 👋
 
-Soy **Nerea**, estudiante de **Ingeniería de Telecomunicaciones** en la Universidad Carlos III de Madrid.
+Soy **Nerea**, graduada en **Ingeniería de Tecnologías de Telecomunicación** por la Universidad Carlos III de Madrid y estudiante del **Máster habilitante en Ingeniería de Telecomunicación** en la UPM, con intensificación en Big Data.
 
-Me interesa todo lo que conecta el hardware con el mundo real: los drones, la visión artificial, tecnologías cloud, IoT y los sistemas que funcionan de forma autónoma. Ahora mismo estoy centrada en **Drone-SAR**, mi TFG: un dron autónomo de búsqueda y rescate capaz de detectar personas desde el aire.
+Me interesa todo lo que conecta el hardware con el mundo real: los drones, la visión artificial, las tecnologías cloud, el IoT y los sistemas que funcionan de forma autónoma.
 
-Si quieres ver más detalles sobre **Drone-SAR** te animo a que visites [su página web](https://guardian-eye.gorostiditfg.com). El proyecto concluyó el pasado 7 de septiembre, fecha en la que se realizó su entrega, y actualmente está pendiente de su defensa final, este próximo 15 de octubre. Sin embargo, aunque los cambios están "congelados" por dicha entrega, sigo trabajando en la rama `develop` para reducir la deuda técnica identificada en el TFG, con el propósito de, tras la defensa, hacer un merge en `main` y abrir el proyecto a la comunidad, para que pueda beneficiarse de nuevas mejoras. Puedes seguir el progreso de estas mejoras asi como del **panel Kanban relacionado** [en el el apartado de projectos](https://github.com/users/nereagorostidi/projects/2).
+Mi proyecto principal es **Drone-SAR**, mi TFG: un dron autónomo de búsqueda y rescate capaz de detectar personas desde el aire. Lo defendí en octubre y obtuve un **9,2 con propuesta de Matrícula de Honor**. Puedes ver más detalles en [su página web](https://dron-sar.gorostiditfg.com).
+
+Sigo trabajando en la rama `develop` para reducir la deuda técnica identificada en el TFG, con la idea de hacer merge en `main` y abrir el proyecto a la comunidad. Puedes seguir las mejoras y el **panel Kanban** en [el apartado de proyectos](https://github.com/users/nereagorostidi/projects/2).
 
 ---
 
